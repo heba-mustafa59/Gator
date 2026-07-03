@@ -1,0 +1,3 @@
+{
+  "dbUrl": "postgres://postgres:postgres@localhost:5432/gator?sslmode=disable"
+}
